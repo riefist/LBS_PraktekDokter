@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Praktek Dokter Spesialis</string>
+
+    <string-array name="bidang_keahlian">
+        <item>Anak</item>
+        <item>Bedah</item>
+        <item>Jantung dan Pembuluh Darah</item>
+        <item>Penyakit Kulit dan Kelamin</item>
+        <item>Mata</item>
+        <item>Kebidanan dan Kandungan</item>
+        <item>Penyakit Dalam</item>
+        <item>Saraf</item>
+    </string-array>
+
+    <string-array name="status_pasien">
+        <item>Pernah Mendaftar</item>
+        <item>Belum Pernah Mendaftar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_nama_dokter"
+        android:text="dr. Muhamad Arief. S.Kom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/txt_nama_spesialis"
+        android:text="Komputer"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt_jadwal"
+        android:text="Senin - Sabtu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt_jam"
+        android:text="18.00 - selesai"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/txt_keterangan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hari minggu libur"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
